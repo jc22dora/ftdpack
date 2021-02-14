@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='ftdpack',
-version='0.1',
+version='0.2',
 description='package to access failure to deliver data',
 url='https://github.com/jc22dora/ftdpack',
 author='John Doran',
