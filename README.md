@@ -1,5 +1,5 @@
 # ftdpack
-ftdpack is a python package that acts as an API for the SEC's Failure To Deliver data. The database is automatically update by a script on my home machine every 4 hours, although the SEC only posts data every two weeks. I do this for a few reasons, but mainly just to make sure the data is up to data within a reasonable time frame incase of any oddities in the SEC posting timeframe(which is inconsistent).
+ftdpack is a python package that acts as an API for the SEC's Failure To Deliver data. The database is automatically updated by a script on my home machine every 4 hours, although the SEC only posts data every two weeks. I do this for a few reasons, but mainly just to make sure the data is up to data within a reasonable time frame incase of any oddities in the SEC posting timeframe(which is inconsistent).
 
 # Installation 
 Use the package manager [pip] to install ftdpack. 
