@@ -9,8 +9,8 @@ pip install ftdpack
 
 # Usage
 ```python
-import ftdpack 
-from ftdpack import failuretodeliver as ftd
+import ftd
+from ftd import failuretodeliver as ftd
 
 connection, cursor = ftd.get_access() #this will return a mysql.connector so you can do your own mysql pulls
 
